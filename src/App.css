@@ -1,0 +1,199 @@
+.Header {
+  display: block;
+  margin: 0%;
+  height: 80px;
+  width: 100%;
+  background-color: #0c0d47;
+}
+
+.home {
+  display: inline-block;
+  position: relative;
+  height: 80px;
+  width: 300px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  padding: 0%;
+  background-color: #0c0d47;
+  border: none;
+}
+
+.whiteHome {
+  display: inline-block;
+  position: relative;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  float: left;
+}
+
+.homePustalk {
+  display: inline-block;
+  position: relative;
+  height: 40px;
+  width: 150px;
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 2px;
+  margin-right: 0%;
+  align-items: center;
+  font-size: 40px;
+  float: left;
+  color: white;
+}
+
+.homeAdmin {
+  display: inline-block;
+  position: relative;
+  height: 20px;
+  width: 80px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 100px;
+  color: #d5ded7;
+  font-size: 20px;
+}
+
+.website {
+  display: inline-block;
+  position: relative;
+  height: 100%;
+  width: 300px;
+  margin-top: 0px;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0px;
+  padding: 0%;
+  text-align: center;
+  font-size: 20px;
+  float: right;
+  background-color: #0c0d47;
+  border: none;
+}
+
+.websiteWrite {
+  display: inline-block;
+  position: relative;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 0%;
+  float: none;
+  color: #d5ded7;
+}
+
+.admin {
+  display: inline-block;
+  position: relative;
+  height: 80px;
+  width: 15%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-right: 0%;
+  margin-left: 0%;
+  float: right;
+  text-align: center;
+  background-color: #0c0d47;
+  border: none;
+}
+
+.adminWrite {
+  display: inline-block;
+  position: relative;
+  margin-left: 40px;
+  margin-top: 25px;
+  font-size: 20px;
+  float: left;
+  color: #d5ded7;
+}
+
+.adminImage {
+  display: inline-block;
+  position: relative;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  float: right;
+  background-color: white;
+}
+
+.list {
+  display: inline-block;
+  position: relative;
+  height: 87.8vh;
+  width: 25%;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.listItem {
+  display: inline-block;
+  position: relative;
+  height: 4.9vh;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  background-color: #c5c5c9;
+}
+
+.subItem {
+  background-color: #8c8c8f;
+}
+
+.shops {
+  display: inline-block;
+  position: relative;
+  height: 87.8vh;
+  width: 75%;
+  float: right;
+}
+
+.shopList {
+  display: inline-block;
+  position: relative;
+  height: 80px;
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-bottom: 0px;
+  float: left;
+  text-align: center;
+  background-color: #ffe605;
+  border: none;
+}
+
+.shopList2 {
+  display: inline-block;
+  position: relative;
+  height: 80px;
+  width: 300px;
+  margin-top: 30px;
+  margin-right: 10%;
+  margin-bottom: 0px;
+  float: right;
+  text-align: center;
+  background-color: #ffe605;
+  border: none;
+}
+
+.shop {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.number {
+  font-size: 15px;
+  font-weight: bold;
+  color: red;
+}
